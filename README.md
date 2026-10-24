@@ -126,6 +126,41 @@ You can now perform Tekton development locally, just like in the Cloud IDE lab e
 
 [John Rofrano](https://www.coursera.org/instructor/johnrofrano), Senior Technical Staff Member, DevOps Champion, @ IBM Research, and Instructor @ Coursera
 
+## DevOps Capstone Project
+
+### Project Overview
+This project implements a Customer Accounts microservice as part of the IBM DevOps Capstone Project.
+
+### Objectives
+- Manage customer account information through REST APIs.
+- Follow Test Driven Development (TDD) practices.
+- Maintain at least 95% code coverage.
+- Use GitHub Issues and a Kanban board for agile project planning.
+- Organize development work into prioritized user stories and sprints.
+
+### Microservice
+The Customer Accounts microservice manages account information, including:
+- Account ID
+- Customer name
+- Email address
+- Address
+- Phone number
+- Date joined
+
+### Technologies
+- Python
+- Flask
+- PostgreSQL
+- Docker
+- Kubernetes
+- Tekton
+- GitHub
+
+### Project Planning
+Project planning will be managed using GitHub Issues and a Kanban board. User stories will be prioritized in the Product Backlog, estimated using story points, and organized into sprints.
+
+### Author
+Tejas Eknath Naik
 ## License
 
 Licensed under the Apache License. See [LICENSE](LICENSE)
